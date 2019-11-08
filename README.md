@@ -66,5 +66,5 @@ This is the logo file that I use with either [growlnotify](http://growl.cachefly
 
 * If you do not have either one installed, neither will be used and you will never see this image.
 
-***If you do want to use this image* with either `growlnotify` or `terminal-notifier` then it must be saved to `~/Pictures/homebrew-256x256.png`.
+***If you do want to use this image*** with either `growlnotify` or `terminal-notifier` then it must be saved to `~/Pictures/homebrew-256x256.png`.
 
