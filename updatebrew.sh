@@ -28,6 +28,9 @@ LOG="$HOME/Library/Logs/$NAME.log"
 	# If you want a separate msg for each time this runs, uncomment the next line
 #LOG="$HOME/Library/Logs/$NAME.$TIME.log"
 
+### If you want to make sure that you see the log file whenever it is created, I suggest 
+### changing '$HOME/Library/Logs/' to '$HOME/Desktop/' -- assuming your Desktop isn't a mess.
+
 ##
 ##		ABOVE HERE IS THE ONLY PLACE YOU MIGHT NEED TO EDIT SOMETHING
 ##
