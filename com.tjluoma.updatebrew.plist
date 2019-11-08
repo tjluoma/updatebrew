@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Disabled</key>
+	<false/>
+	<key>EnvironmentVariables</key>
+	<dict>
+		<key>PATH</key>
+		<string>/usr/local/bin:/usr/bin:/usr/sbin:/sbin:/bin</string>
+	</dict>
+	<key>Label</key>
+	<string>com.tjluoma.updatebrew</string>
+	<key>Program</key>
+	<string>/usr/local/scripts/updatebrew.sh</string>
+	<key>RunAtLoad</key>
+	<false/>
+	<key>StandardErrorPath</key>
+	<string>/Users/luomat/logs/mba/launchd/com.tjluoma.updatebrew.stderr.log</string>
+	<key>StandardOutPath</key>
+	<string>/Users/luomat/logs/mba/launchd/com.tjluoma.updatebrew.stdout.log</string>
+	<key>StartCalendarInterval</key>
+	<dict>
+		<key>Hour</key>
+		<integer>4</integer>
+		<key>Minute</key>
+		<integer>0</integer>
+	</dict>
+</dict>
+</plist>
