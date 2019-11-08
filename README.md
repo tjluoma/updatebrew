@@ -62,7 +62,7 @@ Change the `0` to anything between `0-59` if you want to change the minute.
 
 This is the logo file that I use with either [growlnotify](http://growl.cachefly.net/GrowlNotify-2.1.zip) or [terminal-notifier](https://github.com/julienXX/terminal-notifier), assuming that you have either installed.
 
-* If you have both installed, `growlnotify` will be used (because I assume if you have Growl installed, that’s what you want to use.)
+* If you have both installed, `growlnotify` will be used (because I assume if you have [Growl](https://apps.apple.com/us/app/growl/id467939042?mt=12) installed, you want to use Growl.)
 
 * If you do not have either one installed, neither will be used and you will never see this image.
 
