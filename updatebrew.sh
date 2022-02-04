@@ -61,7 +61,7 @@ function msg {
 	elif (( $+commands[terminal-notifier] ))
 	then
 
-		terminal-notifier -message "$@" -contentImage "$IMAGE" -title "\$NAME" -subtitle "`timestamp`"
+		terminal-notifier -message "$@" -contentImage "$IMAGE" -title "$NAME" -subtitle "`timestamp`"
 
 	fi
 
